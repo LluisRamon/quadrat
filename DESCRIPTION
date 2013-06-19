@@ -1,0 +1,9 @@
+Package: quadrat
+Type: Package
+Title: Simplifica el calculcul de quadrats
+Version: 1.1
+Date: 2013-04-28
+Author: Lluis Ramon
+Maintainer: Lluis Ramon <LluisRamon@somewhere.net>
+Description: El package quadrat simplifica el calcul de quadrats.
+License: GPL-2
